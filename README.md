@@ -1,7 +1,7 @@
 # Blackjack-CPP
 Blackjack using C++
 
-The main reason why I chose this topic is because card games interest me. I have also enjoyed playing video games since I was a kid. Since this was a topic that I liked, I thought of making this card game “Blackjack” into a computer game as it is unique and can test one’s luck. Also, this game is popular all over the world and is playable by people of all ages. I found this topic challenging as it involved a playing with a deck of cards and hence motivated me to complete it.
+The main reason why I chose this topic is because card games interest me. I have also enjoyed playing video games since I was a kid. Since this was a topic that I liked, I thought of making this card game “Blackjack” into a computer program as it is unique and can test one’s luck. Also, this game is popular all over the world and is playable by people of all ages. I found this topic challenging as it involved a deck of cards and hence motivated me to complete it.
 
 For running the code, you can use a free and open-source software like Turbo C7 by Akki. My code has been written using this compiler and I assure you that it runs perfectly in this.
 
